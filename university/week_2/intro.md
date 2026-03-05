@@ -1,4 +1,4 @@
-# 🌆 Systems Analysis & Design — Cyberpunk Study Journal
+# 🌆 Systems Analysis & Design — Study Journal
 
 > 💡 **Theme:** Understanding how organizations build and manage information systems that support business operations.
 
